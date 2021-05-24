@@ -1,0 +1,34 @@
+.card {
+    background-color: lightgray;
+    padding: 20px;
+    width: 400px;
+   
+  }
+  .container{
+      margin: 100px;
+  }
+  input {
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+  }
+  label {
+    font-size: 20px;
+  }
+  button {
+    padding: 5px 8px;
+    margin: 5px;
+    color: white;
+  }
+  .generate {
+    background-color: green;
+  }
+  .clear {
+    background-color: gray;
+  }
+  p {
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 20px;
+  }
+  
